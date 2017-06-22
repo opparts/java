@@ -4,7 +4,6 @@
 
   <groupId>com.hanapost.kafka</groupId>
   <artifactId>send-message-to-kafka</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>send-message-to-kafka</name>
@@ -27,4 +26,5 @@
     	<version>0.8.2.1</version>
     </dependency>
   </dependencies>
+  <version>0.1</version>
 </project>
